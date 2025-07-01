@@ -1,4 +1,4 @@
-# ML training inference workflow
+# Sagemaker batch ML pipeline
 
 This example showcases how you can efficiently train and inference a large number of models in one workflow.
 
